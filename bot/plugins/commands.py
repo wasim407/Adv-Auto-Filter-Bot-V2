@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '⚠️ JOIN OUR CHANNEL ⚠️', url="https://t.me/joinchat/5UxSr0XIphVhYjc9"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '⚠️ JOIN OUR CHANNEL ⚠️', url="https://t.me/joinchat/5UxSr0XIphVhYjc9"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '⚠️ JOIN OUR CHANNEL ⚠️', url="https://t.me/joinchat/5UxSr0XIphVhYjc9"
                                 )
                         ]
                     ]
@@ -89,8 +89,8 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('⚠️ ᴊᴏɪɴ', url='https://t.me/joinchat/5UxSr0XIphVhYjc9'),
-        InlineKeyboardButton('🕵‍♂ 𝐂𝐑𝐄𝐀𝐓𝐎𝐑', url ='https://t.me/Wafikh')
+        InlineKeyboardButton('⚠️ JOIN', url='https://t.me/joinchat/5UxSr0XIphVhYjc9'),
+        InlineKeyboardButton('🕵‍♂ CREATOR', url ='https://t.me/Wafikh')
     ],[
         InlineKeyboardButton('💡 HELP', callback_data="help"),
         InlineKeyboardButton('🔐 CLOSE', callback_data="close")
