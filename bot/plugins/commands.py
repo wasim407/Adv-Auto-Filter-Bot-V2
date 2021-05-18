@@ -92,9 +92,8 @@ async def start(bot, update):
         InlineKeyboardButton('⚠️ ᴊᴏɪɴ', url='https://t.me/joinchat/5UxSr0XIphVhYjc9'),
         InlineKeyboardButton('🕵‍♂ 𝐂𝐑𝐄𝐀𝐓𝐎𝐑', url ='https://t.me/Wafikh')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/CrazyBotszGrp')
-    ],[
-        InlineKeyboardButton('Help ⚙', callback_data="help")
+        InlineKeyboardButton('💡 HELP', callback_data="help"),
+        InlineKeyboardButton('🔐 CLOSE', callback_data="close")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
