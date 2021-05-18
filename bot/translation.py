@@ -16,7 +16,7 @@ class Translation(object):
 <b>നീ ഏതാ..... ഒന്ന് പോടെയ് അവൻ help ചോയ്ച്ച് വന്നിരിക്കുന്നു😤...I'm Different Bot U Know</b>
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ ᴍʏ ɴᴀᴍᴇ</b> : <code> Auto Filter Bot</code>
     
 <b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
 
